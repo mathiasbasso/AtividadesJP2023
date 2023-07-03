@@ -16,6 +16,7 @@ public class Main {
                 "\n - 2 Não");
         dinheiro = entrada.nextInt();
 
+
         if (fome == 1 && dinheiro==1){
             System.out.println("vá para a cantina");
         }else if (fome == 1 && dinheiro ==2){
