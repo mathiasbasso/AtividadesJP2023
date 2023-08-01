@@ -3,7 +3,6 @@ package bugs;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.NoSuchFileException;
 
 public class FileLines {
     public static void main(String[] args) throws IOException {
